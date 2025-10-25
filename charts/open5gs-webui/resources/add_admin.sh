@@ -12,5 +12,5 @@ if ( cursor.count() == 0 ) {
 }
 EOF
 
-mongo $DB_URI /tmp/account.js
+mongosh $DB_URI /tmp/account.js
 rm -f /tmp/account.js
