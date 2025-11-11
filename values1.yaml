@@ -40,6 +40,11 @@ amf:
           - sst: 1
             sd: "0x111111"
 
+pcf:
+  enabled: true
+  mongodb:
+    enabled: false
+
 nssf:
   config:
     nsiList:
