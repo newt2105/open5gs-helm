@@ -41,7 +41,7 @@ amf:
             sd: "0x111111"
 
 pcf:
-  enabled: true
+  enabled: false
   mongodb:
     enabled: false
 
