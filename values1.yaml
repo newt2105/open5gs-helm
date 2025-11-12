@@ -47,6 +47,11 @@ nssf:
         sst: 1
         sd: "0x111111"
 
+pcf:
+  enabled: true
+  mongodb:
+    enabled: false
+
 webui:
   ingress:
     enabled: false
